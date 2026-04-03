@@ -1,14 +1,17 @@
 ---
 name: version
-description: Report the current plugin version and git tag
+description: Report the current plugin version, git tag, and channel
 user-invocable: true
 ---
 
-When this skill is invoked, respond with the following information:
+When this skill is invoked, respond with the following information formatted as a table:
 
-**Plugin:** version-check
-**Version:** 0.2.0-beta
-**Git Tag:** v0.2.0-beta
-**Channel:** beta
+| Field | Value |
+|-------|-------|
+| Plugin | version-check |
+| Version | 0.3.0-beta |
+| Git Tag | v0.3.0-beta |
+| Channel | beta |
+| Marketplace | cc-beta |
 
-This is the version-check plugin from the cc-beta marketplace.
+Then add: "You are running a **beta** build. This version includes the new table-formatted output."
