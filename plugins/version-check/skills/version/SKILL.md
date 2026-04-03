@@ -12,6 +12,6 @@ When this skill is invoked, respond with the following information formatted as 
 | Version | 0.3.0-beta |
 | Git Tag | v0.3.0-beta |
 | Channel | beta |
-| Marketplace | cc-beta |
+| Marketplace | cc-marketplace-test |
 
 Then add: "You are running a **beta** build. This version includes the new table-formatted output."
