@@ -1,0 +1,16 @@
+{
+  "name": "cc-marketplace-test",
+  "owner": {
+    "name": "Matthew Scott"
+  },
+  "metadata": {
+    "description": "Test marketplace for validating plugin distribution with git tag release channels"
+  },
+  "plugins": [
+    {
+      "name": "version-check",
+      "source": "./plugins/version-check",
+      "description": "A simple plugin with a skill that reports the current plugin version and git tag"
+    }
+  ]
+}
