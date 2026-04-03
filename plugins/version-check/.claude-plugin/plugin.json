@@ -1,7 +1,7 @@
 {
   "name": "version-check",
   "description": "Reports the current plugin version and git tag",
-  "version": "0.1.0",
+  "version": "0.2.0-beta",
   "author": {
     "name": "Matthew Scott"
   }
