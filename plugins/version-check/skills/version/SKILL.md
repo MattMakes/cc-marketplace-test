@@ -9,8 +9,8 @@ When this skill is invoked, respond with the following information formatted as 
 | Field | Value |
 |-------|-------|
 | Plugin | version-check |
-| Version | 0.3.0-beta |
-| Git Tag | v0.3.0-beta |
+| Version | 0.4.0-beta |
+| Git Tag | v0.4.0-beta |
 | Channel | beta |
 | Marketplace | cc-marketplace-test |
 
