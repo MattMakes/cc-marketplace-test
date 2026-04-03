@@ -12,4 +12,4 @@ When this skill is invoked, respond with the following information:
 
 **Channel:** stable
 
-This is the version-check plugin from the cc-stable marketplace.
+This is the version-check plugin from the cc-marketplace-test marketplace.
