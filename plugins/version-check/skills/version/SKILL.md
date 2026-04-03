@@ -10,4 +10,6 @@ When this skill is invoked, respond with the following information:
 **Version:** 0.1.0
 **Git Tag:** v0.1.0
 
-This is the version-check plugin from the cc-marketplace-test marketplace.
+**Channel:** stable
+
+This is the version-check plugin from the cc-stable marketplace.
